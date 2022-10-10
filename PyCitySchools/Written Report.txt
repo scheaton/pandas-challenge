@@ -1,0 +1,13 @@
+Summary
+-------
+This is an analysis of the possible correlations with the success of schools within a district.
+First, an overall snapshot of the district was created that averages the entire district together in one row of data. Next, calculations such as average scores, passing rate, funding, etc, were made on each school to make the "Per School Summary". This "Per School Summary" was then sorted by overall passing rates to search for trends. Charts were also created to group and average test scores by grade (9th, 10th, 11th, 12th) at each school. Finally, the "Per School Summary" was used to make three other charts where schools are grouped together based off of school spending per student, school size, and school type.
+
+Analysis
+--------
+There are three strong trends in the data.
+1. There is an inverse correlation between school spending per student and scores. In other words, as school spending increases, scores decrease.
+2. Small and medium schools (<2000 students) score far better than larger schools.
+3. Charter schools have a far better overall passing % than district schools (90.4% vs 53.7%).
+
+While these are strong trends, it is important to note that charter schools tend to be smaller schools which also tend to have less spending per student and vice versa. For this reason, the higher scores cannot necessarily be attributed to any one of the above variables. Also, 15 schools and only one year of data is not a very large sample size.
